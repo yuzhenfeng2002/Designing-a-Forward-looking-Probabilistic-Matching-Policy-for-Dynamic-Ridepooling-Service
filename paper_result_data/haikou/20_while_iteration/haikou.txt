@@ -1,0 +1,66 @@
+(ridepooling) PS C:\Users\admin\Desktop\Ridepooling-Matching-Prediction-on-Real-Network> python.exe .\optimize_dispatching.py
+Iterating... |012345678901234567
+Initial objective value: 96427.218989
+Perturbation time comsumed: 505.25s
+Iterating... |012345678901234567
+0       6717919 90920.063209    5.711%  1473.42s
+Perturbation time comsumed: 483.75s
+Iterating... |012345678901234567
+1       511124  90419.273787    6.231%  2946.43s
+Perturbation time comsumed: 463.71s
+Iterating... |012345678901234567
+2       113057  90401.696666    6.249%  4423.76s
+Perturbation time comsumed: 465.08s
+Iterating... |012345678901234567
+3       37671   90394.088928    6.257%  5890.27s
+Perturbation time comsumed: 466.24s
+Iterating... |012345678901234567
+4       19836   90391.392829    6.259%  7439.94s
+Perturbation time comsumed: 551.50s
+Iterating... |012345678901234567
+5       15019   90393.157728    6.258%  8976.17s
+Perturbation time comsumed: 458.86s
+Iterating... |012345678901234567
+6       13106   90391.587723    6.259%  10424.67s
+Perturbation time comsumed: 459.83s
+Iterating... |012345678901234567
+7       12380   90392.792023    6.258%  11883.78s
+Perturbation time comsumed: 460.84s
+Iterating... |012345678901234567
+8       12205   90391.262845    6.260%  13352.87s
+Perturbation time comsumed: 463.07s
+Iterating... |012345678901234567
+9       12184   90392.413592    6.258%  14809.81s
+Perturbation time comsumed: 466.72s
+Iterating... |012345678901234567
+10      12063   90390.719390    6.260%  16253.10s
+Perturbation time comsumed: 464.56s
+Iterating... |012345678901234567
+11      12178   90392.531707    6.258%  17696.18s
+Perturbation time comsumed: 464.15s
+Iterating... |012345678901234567
+12      12082   90390.580437    6.260%  19159.87s
+Perturbation time comsumed: 461.99s
+Iterating... |012345678901234567
+13      11995   90392.180058    6.259%  20648.79s
+Perturbation time comsumed: 462.98s
+Iterating... |012345678901234567
+14      12189   90390.779627    6.260%  22116.59s
+Perturbation time comsumed: 461.31s
+Iterating... |012345678901234567
+15      11983   90392.275797    6.259%  23568.74s
+Perturbation time comsumed: 462.58s
+Iterating... |012345678901234567
+16      11893   90390.510803    6.260%  25015.92s
+Perturbation time comsumed: 466.89s
+Iterating... |012345678901234567
+17      11995   90392.475471    6.258%  26474.25s
+Perturbation time comsumed: 461.54s
+Iterating... |012345678901234567
+18      12064   90390.575993    6.260%  27936.81s
+Perturbation time comsumed: 461.29s
+Iterating... |012345678901234567
+19      11956   90392.062172    6.259%  29400.79s
+1.0     20      3452564 96427.218989    90390.510803    29401.84s       6.260%
+(ridepooling) PS C:\Users\admin\Desktop\Ridepooling-Matching-Prediction-on-Real-Network> python.exe .\simulation.py
+1.0     2838970663      2699180907      4.924%  93.067% 80.865% 287455716       233558957       2167792634      2339578628

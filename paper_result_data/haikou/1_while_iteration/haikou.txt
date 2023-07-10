@@ -1,0 +1,9 @@
+(ridepooling) PS C:\Users\admin\Desktop\Ridepooling-Matching-Prediction-on-Real-Network> python.exe .\optimize_dispatching.py
+Iterating... |012345678901234567
+Initial objective value: 96427.218989
+Perturbation time comsumed: 488.89s
+Iterating... |012345678901234567
+0       6717919 90920.063209    5.711%  1468.02s
+1.0     1       3710861 96427.218989    90920.063209    1469.03s        5.711%
+(ridepooling) PS C:\Users\admin\Desktop\Ridepooling-Matching-Prediction-on-Real-Network> python.exe .\simulation.py
+1.0     2838970663      2716300306      4.321%  93.067% 81.276% 287455716       235139389       2167792634      2308500693
