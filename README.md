@@ -1,2 +1,2 @@
-# forward_looking_probabilistic_matching_policy_for_dynamic_ridepooling
+# Designing a forward-looking probabilistic matching policy for dynamic ridepooling service
  
